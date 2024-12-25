@@ -1,0 +1,12 @@
+.box {
+  width: 300px;
+  height: 300px;
+  border: 1px solid #333;
+}
+
+.main-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

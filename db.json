@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Avinash Khara",
+      "email": "avinash@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Yesha desai",
+      "email": "yesha@gmail.com"
+    },
+    {
+      "id": "68cb",
+      "name": "Raj",
+      "email": "raj@gmail.com"
+    },
+    {
+      "id": "c515",
+      "name": "ravi",
+      "email": "ravi@gmail.com"
+    },
+    {
+      "id": "e4e4",
+      "name": "dsds",
+      "email": "d@dds"
+    }
+  ]
+}
